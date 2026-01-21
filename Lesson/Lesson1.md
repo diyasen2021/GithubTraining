@@ -40,7 +40,7 @@ Documentation:
 
 ---
 
-## 2. Why use GitHub for academic work?
+## 1. Why use GitHub for academic work?
 
 GitHub is commonly used for:
 
@@ -58,7 +58,7 @@ Key benefits:
 
 ---
 
-## 3. Accounts and tools you need (one-time setup)
+## 2. Accounts and tools you need (one-time setup)
 
 You will install three things:
 
@@ -68,7 +68,7 @@ You will install three things:
 
 ---
 
-## 4. Create a GitHub account
+## 3. Create a GitHub account
 
 1. Go to: [https://github.com/](https://github.com/)
 2. Click **Sign up**
@@ -79,7 +79,7 @@ No payment is required.
 
 ---
 
-## 5. Install Git on your computer
+## 4. Install Git on your computer
 
 Git runs in the background and keeps track of file versions.
 
@@ -127,7 +127,7 @@ git --version
 
 ---
 
-## 6. Install Visual Studio Code (VS Code)
+## 5. Install Visual Studio Code (VS Code)
 
 VS Code is a free, user-friendly editor that integrates Git.
 
@@ -147,26 +147,8 @@ After installation:
 
 ---
 
-## 7. How Git, GitHub, and VS Code work together
 
-At a high level:
-
-* **Git** tracks changes on your computer
-* **VS Code** lets you see and manage those changes visually
-* **GitHub** stores a copy online and enables sharing
-
-Typical workflow:
-
-1. Edit a file in VS Code
-2. Save your changes
-3. Commit (create a checkpoint)
-4. Push to GitHub (sync online)
-
-You do **not** need to memorise commands.
-
----
-
-## 8. Configure Git (recommended first-time setup)
+## 6. Configure Git (recommended first-time setup)
 
 Git needs to know who you are so changes are correctly attributed.
 
