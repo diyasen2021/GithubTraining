@@ -1,6 +1,6 @@
 # Git & GitHub Onboarding – 1-Page Quick Start
 
-**Audience:** First-time Git/GitHub users (scientists, researchers)
+**Audience:** First-time Git/GitHub users
 
 **Goal:** Connect a local folder to an existing GitHub repository, add files, and push changes safely.
 
